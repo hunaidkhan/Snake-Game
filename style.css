@@ -15,8 +15,8 @@ body{
     height: 100vmin;
     background-color: gray;
     display: grid;
-    grid-template-rows: repeat(29, 1fr);
-    grid-template-columns: repeat(29, 1fr);
+    grid-template-rows: repeat(21, 1fr);
+    grid-template-columns: repeat(21, 1fr);
 }
 
 .snake{
